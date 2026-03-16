@@ -1,0 +1,18 @@
+{
+    "patch_1.1": [
+        {
+            "root.eix": {
+                "path": "root.eix",
+                "hash": "166de48ec3ac697ed4d9960d374d2f95f221a30b3c023f9b0f7691055db17d14",
+                "size": 2968
+            },
+            "root.epk": {
+                "path": "root.epk",
+                "hash": "cdb8b3416a641976b5f669506a4915c5ac78a9d1a9bace448b3949d161f405b3",
+                "size": 520704
+            }
+        }
+    ],
+    "exe": {},
+    "patcher": {}
+}
