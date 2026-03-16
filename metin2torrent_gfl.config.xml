@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<torrent_config>
+    <run_path="metin2client.exe"
+    notice_ver="0"
+    notice_url="http://metin2test.ddns.net/notice/"
+    notice_width="671"
+    notice_height="600"
+    cur_patcher_path="metin2launch.exe"
+    new_patcher_path="metin2launch.bin"
+    new_patcher_crc32="0xcd8b7999">
+    <foreground_patch crcpatch_url="https://metin2patcher-nev.github.io/patcher/" crcversion="0.0.0.2"/>
+
+    </torrent_config>
